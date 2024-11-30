@@ -65,7 +65,7 @@ This project is an assistive application designed to help visually impaired indi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/assistive-ai.git
+   git clone https://github.com/Maheendra-mj/assistive-ai.git
    cd assistive-ai
    ```
 
